@@ -1,5 +1,5 @@
 name: liujunyi
-production_url : https://hiliujunyi.github.io
-BASE_PATH : /
+production_url: https://hiliujunyi.github.io
+BASE_PATH: /hiliujunyi
 markdown: rdiscount
 pygments: true
