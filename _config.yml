@@ -1,5 +1,4 @@
 name: liujunyi
 production_url : https://hiliujunyi.github.io
-BASE_PATH : /myblog
 markdown: rdiscount
 pygments: true
